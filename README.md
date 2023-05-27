@@ -1,6 +1,6 @@
 ### Hi there, Im Glendson Garcete and im work as FullStack Developer.
 
-- 🔭 I'm currently working as a Freelance Consulting | Fullstack Developer | JavaScript Developer.
+- 🔭 I'm currently working as a Freelance Consulting | FrontEnd Developer | JavaScript Developer | TypeScript | React
 - 🌱 I'm currently increasing my knowledge in react-native.
 - 📫 How to reach me: By email gztomazetto@gmail.com
 
